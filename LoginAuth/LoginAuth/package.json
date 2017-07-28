@@ -7,14 +7,16 @@
     "start": "webpack-dev-server",
     "dev-build": "webpack -d --config webpack.config.js --colors --progress",
     "dev-watch": "webpack -d --config webpack.config.js --watch --colors",
-      "prod-build": " webpack -p --config webpack.prod.config.js --progress --colors"
+    "prod-build": " webpack -p --config webpack.prod.config.js --progress --colors"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.2",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "react": "^15.6.1",
+    "react-addons-linked-state-mixin": "^15.6.0",
     "react-dom": "^15.6.1",
     "webpack": "^3.3.0",
     "webpack-watch-time-plugin": "^0.1.2"

@@ -4,21 +4,19 @@ var webpack = require('webpack');
 var WatchTimePlugin = require('webpack-watch-time-plugin');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
-template: __dirname + '/html/index.html',
+template: __dirname + '/wwwroot/js/html/index.html',
 filename: 'index.html',
 inject: 'body'
 })
 module.exports = {
     entry: {
         "app": [
-          path.join(__dirname, 'src', 'Main.js')
+          path.join(__dirname, 'wwwroot/js', 'Main.js')
         ]
     },
-    devServer : {
-	port : 8080
-},
+
     output: {
-        path: path.join(__dirname, '', 'release'),
+        path: path.join(__dirname, 'wwwroot/js', 'release'),
         filename: "[name].js",
         chunkFilename: "[id].js"
     },
