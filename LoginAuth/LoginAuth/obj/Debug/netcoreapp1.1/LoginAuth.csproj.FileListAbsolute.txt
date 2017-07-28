@@ -1,0 +1,8 @@
+D:\GIT Repository\LoginAuth\LoginAuth\bin\Debug\netcoreapp1.1\LoginAuth.deps.json
+D:\GIT Repository\LoginAuth\LoginAuth\bin\Debug\netcoreapp1.1\LoginAuth.runtimeconfig.json
+D:\GIT Repository\LoginAuth\LoginAuth\bin\Debug\netcoreapp1.1\LoginAuth.runtimeconfig.dev.json
+D:\GIT Repository\LoginAuth\LoginAuth\bin\Debug\netcoreapp1.1\LoginAuth.dll
+D:\GIT Repository\LoginAuth\LoginAuth\bin\Debug\netcoreapp1.1\LoginAuth.pdb
+D:\GIT Repository\LoginAuth\LoginAuth\obj\Debug\netcoreapp1.1\LoginAuth.AssemblyInfo.cs
+D:\GIT Repository\LoginAuth\LoginAuth\obj\Debug\netcoreapp1.1\LoginAuth.dll
+D:\GIT Repository\LoginAuth\LoginAuth\obj\Debug\netcoreapp1.1\LoginAuth.pdb
