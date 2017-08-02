@@ -2,6 +2,10 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import {Button} from './common/FormText';
 import axios from 'axios';
+import RangeCalendar from 'rc-calendar/lib/RangeCalendar';
+import DatePicker from 'rc-calendar/lib/Picker';
+import 'rc-calendar/assets/index.css';
+//import Calendar from 'uxcore-calendar';
 export default class Login extends React.Component{
 
     constructor(props){
@@ -34,9 +38,13 @@ export default class Login extends React.Component{
     render(){
         return (
             <div>
+              
                   <input type='text' value={this.state.userName} onChange={this.handleuserNameChange} />
                    <input type='text' value={this.state.passWord} onChange={this.handlepassWordChange}  /> 
-                   <Button Name="Submit" onclick={this.handleClick}/>
+                   <Button Name="Submit" onclick={this.handleClick} />
+                   <div>
+                    <RangeCalendar/>
+                   </div>
             </div>
         );
     }
