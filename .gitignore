@@ -3,8 +3,5 @@
 ################################################################################
 
 /LoginAuth/LoginAuth/node_modules
-
-/LoginAuth/LoginAuth/bin
-
-/LoginAuth/LoginAuth/obj
-
+LoginAuth/LoginAuth/bin
+LoginAuth/LoginAuth/obj
