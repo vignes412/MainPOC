@@ -2,6 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/LoginAuth/LoginAuth/bin
+/LoginAuth/LoginAuth/obj
 /LoginAuth/LoginAuth/node_modules
-LoginAuth/LoginAuth/bin
-LoginAuth/LoginAuth/obj
+

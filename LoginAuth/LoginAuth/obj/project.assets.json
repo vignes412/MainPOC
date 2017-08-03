@@ -4333,7 +4333,7 @@
       ]
     },
     "Microsoft.AspNetCore.Authentication/1.1.2": {
-      "sha512": "05Fo9U82/xEEBfNTh3dX9D16Frmw3tUY9D8kicCgpkTwjCe/xwob3xQGbgOZu048oU03s5zob5SQFK7xgz/UNg==",
+      "sha512": "nG9AcO8Do23L/KcQayxx0r11wEPjB303TCV/0pqE8j3q1eMcamThFDQ3RtD/qXwk0rmMbyP3zGgZ+5I8TSLvCQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.authentication/1.1.2",
       "files": [
@@ -4346,7 +4346,7 @@
       ]
     },
     "Microsoft.AspNetCore.Authentication.Cookies/1.1.2": {
-      "sha512": "vcN8AhCQT363LasdbAOWSRHVMWxX5yEtK46p37kKaHIDMQliErzoLok4qSBkQeO6PZ3fNHi+dtnOFZNNIqHn+A==",
+      "sha512": "oqcuY3+r/vuanOnM1LulYMq3HJk7AGIxYYcmC6qRfLt2aEUQLzpwsgA3wYj456XbzNSXf51hu0m+fjj/V2LsVQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.authentication.cookies/1.1.2",
       "files": [
@@ -5079,7 +5079,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/1.1.2": {
-      "sha512": "DIHOCHek+iB6/7o62NX8T6sYdoT/TiRmHcGsvQuHMeyNRbdESAi2s7KHflLVw5/V5iifgKvxFWCMikdD2Ejldw==",
+      "sha512": "2oY1cQ3DEhpbRjlDBE1zb7IngKyPC4fslAX5WL1mnVQOLX/8BPOAjgYM2inzNK2z8ld/DxBUZEwc3xfNc8qhbw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/1.1.2",
       "files": [
@@ -5092,7 +5092,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Design/1.1.2": {
-      "sha512": "Q1m8RroZNGLq6yqrKOCn3cLD+yq3/jKBjoXglcR2ORjkbvhrFARV8IF/Dnxh8ICE88nPTOynQM2ZCulVdpk5Bg==",
+      "sha512": "TFbj0fFE5BWJptL0BKhYOED0QOqY4VxApeLn8r9q8cINxyEj0XgjORl/a3Cp96CeASE5zsQeyMwaQCBRH+roag==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.design/1.1.2",
       "files": [
@@ -5105,7 +5105,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/1.1.2": {
-      "sha512": "jizTz/5hb6r7fA9SzUIuCvXOFvKbgIWd0VwgRbVYgm05Ubys2J0afOmiIpWjERbzG1cgaFE1A36639Ahi98feQ==",
+      "sha512": "oiPXaIMk8cPbEmtcChzhPzM1ZyEYMoy8sMYWgWfv292Q0e0U2v7CIrtGylrORVZOA4lb9M0gWjbfKPtj7iDbxA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/1.1.2",
       "files": [
@@ -5118,7 +5118,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.2": {
-      "sha512": "xLBuxJSVbVRzxHXeeeil268hSYLFm6PBJvjzI/73u/Ttn3t2Qc4vj70727sSsWC+jys2v+J2m4Mrl/nUXAm19w==",
+      "sha512": "pu2Jxndzv3slY6Ch9mdqVfL3AFhH5XzM02Rrnf9h5lKoViprYx1O+nNqT3BxmGrPkYadY9OddG2b9+sUO3Xuzw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.2",
       "files": [
@@ -5987,7 +5987,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "3PpVaSiDhSPN0mBcGV4uoiwHsCYI8hW7keycA5nhSOdjGFtbBSnzXU5UrZrHaXtKLlSv5ZOhjyn+sShY0G5QOw==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -6792,7 +6792,7 @@
       ]
     },
     "System.Data.Common/4.3.0": {
-      "sha512": "lh4XeZMkMR0RS67/MbewCCn1eTIu5DE8fs1A9J1CbQJUuTwFnNnixiolDiR0hMtMHDTe5n6eW0tVhb1/dPaIDg==",
+      "sha512": "lm6E3T5u7BOuEH0u18JpbJHxBfOJPuCyl4Kg1RH10ktYLp5uEEE1xKrHW56/We4SnZpGAuCc9N0MJpSDhTHZGQ==",
       "type": "package",
       "path": "system.data.common/4.3.0",
       "files": [
@@ -7536,7 +7536,7 @@
       ]
     },
     "System.Interactive.Async/3.0.0": {
-      "sha512": "DmKoivNpOIVnhjoormAY3MdPENAP2rz/oef5ISin43O4XB9F5tz+iVxqNihis+kbdV7BqmFcsmmuEFM623aung==",
+      "sha512": "iyrgkZz9Dzm0fiPouQszFC3SO/46k6AYd/jG9bu+/o0AoDMaRXtlo3TIuWVNtOuJFd1noL963QouroJ0T3rImw==",
       "type": "package",
       "path": "system.interactive.async/3.0.0",
       "files": [
@@ -10943,7 +10943,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vravish\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
